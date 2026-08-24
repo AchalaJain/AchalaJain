@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/achala-jain-325377258">LinkedIn</a> •
   <a href="mailto:achalajain2599@gmail.com">Email</a> •
   <a href="https://github.com/AchalaJain">GitHub</a>
 </p>
@@ -89,5 +89,5 @@ and product teams actually act on.
 I'm actively looking for **remote Data Analyst / Data Engineer roles in India.**
 If you're hiring or know someone who is — I'd love to connect.
 
-**LinkedIn:** [linkedin.com/in/www.linkedin.com/in/achala-jain-325377258](https://linkedin.com/in/www.linkedin.com/in/achala-jain-325377258)
+**LinkedIn:** [linkedin.com/in/achala-jain-325377258](https://linkedin.com/in/achala-jain-325377258)
 **Email:** achalajain2599@gmail.com
