@@ -15,12 +15,12 @@
 
 ## 👩‍💻 About Me
 
-Data Analyst at **CNH Industrial** with 2+ years working on 40M+ record
+Data Analyst at **CNH Industrial** with ~3 years working on 40M+ record
 telemetry datasets. I build analytics solutions that improve operational
 visibility, reduce manual effort, and surface the insights that engineering
 and product teams actually act on.
 
-- 🔭 Currently building: **Retention Revenue Intelligence** — churn prediction + CLV scoring system
+- 🔭 Recently built: **Retention Revenue Intelligence** — churn prediction + CLV scoring system
 - 🌱 Exploring: LLM-based analytics workflows, dbt, cloud data pipelines
 - 💼 Open to: Remote Data Analyst / Data Engineer roles in India
 - 🎓 M.Tech — IIT Kharagpur
